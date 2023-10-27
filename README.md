@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Destructor4625
+- 👋 Hi, I’m Pedro Henrique
 - 👀 I’m interested in programation
 - 🌱 I’m currently learning C++
 - 🕶 I’m looking to collaborate on projects
